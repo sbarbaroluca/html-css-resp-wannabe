@@ -95,6 +95,7 @@ img {
       display: block;
       width: 100%;
       padding: 15px;
+      margin: 0;
     }
 
     #lezioni .row>.left,
@@ -145,7 +146,6 @@ img {
       padding: 15px;
       text-align: center;
       width: 85%;
-      margin-top: 10px;
     }
 
    
